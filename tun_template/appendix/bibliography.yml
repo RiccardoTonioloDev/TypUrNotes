@@ -1,0 +1,21 @@
+ImportantPaper:
+  type: Article
+  title: A super important paper you need to cite
+  author: ["Toniolo, Riccardo", "Rossi, Mario"]
+  publisher: Indipendent
+  date: 2024
+MentionedBook:
+  type: Book
+  title: A really good book to mention
+  author: ["Toniolo, Riccardo", "Rossi, Mario"]
+  publisher: A really good publisher
+  date: 2024
+IncredibleArticle:
+  type: Article
+  title: Ground breaking article
+  author: Riccardo Toniolo
+  volume: 21
+  date: 2024
+  Parent:
+    title: Ground breaking articles
+    volume: 21
